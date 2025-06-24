@@ -14,12 +14,12 @@
 
 
 
-
-- ⚙️ To run the project: First, clone it using `git clone https://github.com/yashJadhav0504/Virtual-Assistant.git`
+✨To run the project:
+- ⚙️ First, clone it using `git clone https://github.com/yashJadhav0504/Virtual-Assistant.git`
 - 👉 then open the folder using `cd Virtual-Assistant`
 - 📁 → Now just click on `index.html` to run in browser, or open it in VS Code and use
--  💻 "Live Server" to launch.
--  ✅ That’s it — your Virtual Assistant is ready to use! 🚀
+- 💻 "Live Server" to launch.
+- ✅ That’s it — your Virtual Assistant is ready to use! 🚀
 
 
 
