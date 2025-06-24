@@ -7,6 +7,9 @@
 - Stylish robot-themed UI
 - Interactive button with speech icon
 
+
+
+
 - ⚙️ To run the project: First, clone it using `git clone https://github.com/yashJadhav0504/Virtual-Assistant.git`
 - 👉 then open the folder using `cd Virtual-Assistant`
 - 📁 → Now just double-click on `index.html` to run in browser, or open it in VS Code and use
